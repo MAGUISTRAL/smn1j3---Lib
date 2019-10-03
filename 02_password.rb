@@ -15,9 +15,8 @@ def login
               puts "Mot de passe erroné, merci de réssayer  "
           end
     end
-
-
 end
+
 
 def welcome_screen
     puts "Welcome screen: Secret Zone"
