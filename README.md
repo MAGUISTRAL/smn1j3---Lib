@@ -32,3 +32,8 @@ si ce dé fait
 soit v la valeur du dé
 soit n le niveau (la marche) sur laquelle je suis
 soit m le mouvement que je vais faire (+1, 0, -1)
+
+
+
+
+effectué en pair programming alternativement avec Vincent, Mathieu et Olivier
